@@ -1,0 +1,5 @@
+challenges20.npy filter=lfs diff=lfs merge=lfs -text
+challenges.npy filter=lfs diff=lfs merge=lfs -text
+challenges_test.npy filter=lfs diff=lfs merge=lfs -text
+testing-CRPs-1to8.npy filter=lfs diff=lfs merge=lfs -text
+training-CRPs-1to8.npy filter=lfs diff=lfs merge=lfs -text
